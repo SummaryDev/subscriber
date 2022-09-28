@@ -1,5 +1,5 @@
 {
-  "name": "subscriber",
+  "name": "summary-subscriber",
   "version": "1.0.0",
   "description": "Client subscribes to Summary blockchain indexer",
   "main": "index.js",
